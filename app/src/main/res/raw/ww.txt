@@ -1,0 +1,60 @@
+﻿{
+    "data":{
+        "yesterday":{
+            "date":"25日星期一",
+            "high":"高温 5℃",
+            "fx":"南风",
+            "low":"低温 -4℃",
+            "fl":"<![CDATA[<3级]]>",
+            "type":"晴"
+        },
+        "city":"北京",
+        "aqi":"54",
+        "forecast":[
+            {
+                "date":"26日星期二",
+                "high":"高温 4℃",
+                "fengli":"<![CDATA[<3级]]>",
+                "low":"低温 -6℃",
+                "fengxiang":"南风",
+                "type":"晴"
+            },
+            {
+                "date":"27日星期三",
+                "high":"高温 4℃",
+                "fengli":"<![CDATA[<3级]]>",
+                "low":"低温 -5℃",
+                "fengxiang":"无持续风向",
+                "type":"多云"
+            },
+            {
+                "date":"28日星期四",
+                "high":"高温 5℃",
+                "fengli":"<![CDATA[<3级]]>",
+                "low":"低温 -4℃",
+                "fengxiang":"东风",
+                "type":"晴"
+            },
+            {
+                "date":"29日星期五",
+                "high":"高温 6℃",
+                "fengli":"<![CDATA[<3级]]>",
+                "low":"低温 -3℃",
+                "fengxiang":"东风",
+                "type":"多云"
+            },
+            {
+                "date":"30日星期六",
+                "high":"高温 5℃",
+                "fengli":"<![CDATA[3-4级]]>",
+                "low":"低温 -5℃",
+                "fengxiang":"西北风",
+                "type":"多云"
+            }
+        ],
+        "ganmao":"昼夜温差较大，较易发生感冒，请适当增减衣服。体质较弱的朋友请注意防护。",
+        "wendu":"1"
+    },
+    "status":1000,
+    "desc":"OK"
+}
